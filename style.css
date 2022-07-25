@@ -5,6 +5,11 @@ body {
     justify-content: space-between;
 }
 
+#header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -12,6 +17,8 @@ body {
 }
 
 ul {
+    font-size: 18px;
+    color: #E5E7EB;
     display: flex;
     list-style: none;
     gap: 16px;
