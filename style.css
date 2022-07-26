@@ -35,6 +35,15 @@ ul {
 }
 
 h1{
+    color: #F9FAF8;
     font-size: 48px;
     font-weight: bold;
+}
+
+p{
+    color: #E5E7EB;
+}
+
+.Hero {
+    background-color: #1F2937;
 }
