@@ -11,7 +11,7 @@ body {
     color: #F9FAF8;
 }
 
-.header, .footer {
+.header{
     background-color: #1F2937;
     display: flex;
     justify-content: space-between;
@@ -26,4 +26,11 @@ ul {
     gap: 16px;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
