@@ -48,3 +48,18 @@ p{
     background-color: #1F2937;
     display: flex;
 }
+.Hero-left{
+    flex: 1;
+}
+
+.Hero-right {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    background-color: gray;
+}
+
