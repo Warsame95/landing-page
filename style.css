@@ -52,6 +52,12 @@ p{
     flex: 1;
 }
 
+button {
+    color: #E5E7EB;
+    border-radius: 25px;
+    background-color: #3882f6;
+}
+
 .Hero-right {
     flex: 1;
     display: flex;
