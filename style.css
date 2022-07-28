@@ -94,3 +94,12 @@ img {
     height: 150px;
 }
 
+.image{
+    width: 150px;
+}
+
+.image-subtext {
+    text-align: center;
+    word-wrap: break-word;
+}
+
