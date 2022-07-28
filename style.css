@@ -86,7 +86,6 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 25px;
 }
 
 img {
@@ -96,6 +95,7 @@ img {
 
 .image{
     width: 150px;
+    margin: 20px;
 }
 
 .image-subtext {
