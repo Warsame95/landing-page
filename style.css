@@ -89,6 +89,8 @@ h2{
 }
 
 img {
+    border: medium solid #3882f6;
+    border-radius: 15px;
     width: 150px;
     height: 150px;
 }
@@ -99,6 +101,7 @@ img {
 }
 
 .image-subtext {
+    margin-top: 5px;
     text-align: center;
     word-wrap: break-word;
 }
