@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-family: 'roboto', sans-serif;
 }
 
 .body > * {
@@ -75,8 +76,8 @@ button {
 }
 
 .Hero-image img{
-    width: 400px;
-    height: 200px;
+    width: 500px;
+    height: 230px;
 }
 
 h2{
