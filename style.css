@@ -6,6 +6,10 @@ body {
     justify-content: space-between;
 }
 
+.body {
+    flex: 1;
+}
+
 #header-logo {
     font-size: 24px;
     color: #F9FAF8;
@@ -45,8 +49,11 @@ p{
 }
 
 .Hero {
+    height: 400px;
     background-color: #1F2937;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .Hero-left{
     flex: 1;
