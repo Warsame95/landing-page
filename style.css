@@ -73,8 +73,9 @@ button {
     align-items: center;
 }
 
-.Hero-image{
-    background-color: gray;
+.Hero-image img{
+    width: 400px;
+    height: 200px;
 }
 
 h2{
@@ -89,7 +90,7 @@ h2{
     align-items: center;
 }
 
-img {
+.images-container img {
     border: medium solid #3882f6;
     border-radius: 15px;
     width: 150px;
