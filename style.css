@@ -111,3 +111,14 @@ h2{
     word-wrap: break-word;
 }
 
+.quote-container{
+    flex: 1;
+    background-color: #e5e7eb;
+    height: 400px;
+}
+
+.action-container {
+    flex: 1;
+    height: 300px;
+}
+
