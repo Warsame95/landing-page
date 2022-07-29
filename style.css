@@ -80,6 +80,11 @@ button {
     height: 230px;
 }
 
+.info-container{
+    flex: 1;
+    height: 450px;
+}
+
 h2{
     text-align: center;
     color: #1F2937;
@@ -113,8 +118,19 @@ h2{
 
 .quote-container{
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #e5e7eb;
     height: 400px;
+}
+
+.quote-container p {
+    width: 830px;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
 }
 
 .action-container {
