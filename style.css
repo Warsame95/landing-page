@@ -90,13 +90,14 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 20px;
 }
 
 .images-container img {
     border: medium solid #3882f6;
     border-radius: 15px;
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
 }
 
 .image{
