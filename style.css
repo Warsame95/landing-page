@@ -35,10 +35,14 @@ body {
 
 ul {
     font-size: 18px;
-    color: #E5E7EB;
     display: flex;
     list-style: none;
     gap: 16px;
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
 }
 
 h1{
