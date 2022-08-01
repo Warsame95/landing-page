@@ -147,3 +147,17 @@ h2{
     height: 300px;
 }
 
+.action-container{
+    width: 100%;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.action-text p{
+    margin: 0px;
+}
+
