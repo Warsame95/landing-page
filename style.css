@@ -51,10 +51,12 @@ h1{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bold;
+    margin: 0px;
 }
 
 p{
     color: #E5E7EB;
+    margin: 0px;
 }
 
 .Hero {
@@ -63,15 +65,30 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 .Hero-left{
     flex: 1;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 button {
     color: #E5E7EB;
     border-radius: 10px;
     background-color: #3882f6;
+    padding: 7px 35px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Hero-button {
+    width: 140px;
+    font-weight: bold;
+    border-style: none;
+
 }
 
 .Hero-right {
@@ -174,8 +191,5 @@ h2{
     border-color: #E5E7EB;
     border-style: solid;
     color: #E5E7EB;
-    font-weight: bold;
-    font-size: 17px;
-    padding: 7px 35px;
 }
 
